@@ -1,2 +1,2 @@
 # Display the output
-print ("PritiB is now in Python")
+print ("someone is now in Python")
